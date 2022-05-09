@@ -1,0 +1,21 @@
+
+
+.contentcontainer {
+    width: 70%;
+    height: 50vh;
+    border: solid grey;
+    background-color: white;
+    position: relative;
+    top: 50px;
+    left: 250px;
+    right: 10px;
+    border-radius: 10px;
+}
+
+.headercontainer {
+    display: flex;
+    justify-content: center;
+    font-family: 'Teko', sans-serif;
+    color: black;
+    padding-top: 10px;
+  }
