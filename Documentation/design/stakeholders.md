@@ -46,10 +46,6 @@ When I include information based on my achievements for example I should always 
 
 Just like the still images, the videos can be used for evidence which showcases my achievements and skills. Yet again I must explain why it is relevant and why it also deserves attenttion.
 
-### functional components
-
-What I mean by functional components is that everything in my portfolio must be fuctional. From the navigation to buttons everything must work properly in order to indicate that to employers and viewers that I now hat i'm doing, plus it shows that I care and I like to put in the effort.
-
 ## What stakeholders look for in portfolio
 
 ### Creator/me 

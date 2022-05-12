@@ -1,61 +1,28 @@
 # Navigation
 
-These are the maps of the navigation system from each of my main pages in the digital nportfolio. I will also be including a go to table and description for each of them.
+## Evaluation 
 
-## Home page
+Since I am going to be making this digital portfolio on microsoft sway the navigation will be much more simple than something like a website since a sway presentation is simply just a scroll down. However, there will be different sections of this portfolio so I will be showing the order that they go in.
 
-<img src="../Img/navigation/HomePageNav.jpg" alt="alt text" height="100%" width="100%">
+## Navigation image
 
-|   | Home  | My education  | Out of school  | My Skills  | Work experience
-|---|---|---|---|---|---|
-| Home  |&#x2611; | &#x2611; | &#x2611;  | &#x2611;  | &#x2611;
-| My education  | &#x2611;  | &#x2611;  |  &#x2611; | &#x2611;  | &#x2611;
-| Out of school  | &#x2611;  | &#x2611;  |  &#x2611; | &#x2611;  | &#x2611;
-| My skills| &#x2611; | &#x2611; | &#x2611; | &#x2611; | &#x2611;
-| Work experience | &#x2611; | &#x2611; | &#x2611; | &#x2611; | &#x2611;
+<img src="../Img/navigation/SwayNavigation.jpg" alt="alt text" height="100%" width="100%">
 
-## My education page
+## Go to table
 
-<img src="../Img/navigation/MyEducationNav.jpg" alt="alt text" height="100%" width="100%">
+|   | Introduction  | About me  | My education  | Out of school  | My skills| Work experience |
+|---|---|---|---|---|---|---|
+| Introduction  | &#x2611;  | &#x2611;  | &#x2611;  |  &#x2611; | &#x2611; | &#x2611;|
+| About me  | &#x2611;  | &#x2611;  | &#x2611;  |  &#x2611; | &#x2611; | &#x2611; |
+| My education  | &#x2611;  | &#x2611;  | &#x2611;  | &#x2611;  |  &#x2611;|  &#x2611;|
+| Out of school | &#x2611; | &#x2611; | &#x2611; | &#x2611; |&#x2611; | &#x2611;
+| My skills | &#x2611; | &#x2611; | &#x2611; | &#x2611; | &#x2611; | &#x2611;
+| Work experience | &#x2611; | &#x2611; | &#x2611; | &#x2611; | &#x2611; | &#x2611;
 
-|   | My education  | College  | Secondary school  | Primary school  | 
-|---|---|---|---|---|
-| My education  | &#x2611;  | &#x2611;  |  &#x2612; | &#x2612;  |
-| College  | &#x2612;  | &#x2611;  | &#x2611;  | &#x2612;  |
-| Secondary school  | &#x2612;  | &#x2612;  | &#x2611;  | &#x2611;  |
-| Primary school | &#x2611; | &#x2612; | &#x2612; | &#x2611;|
+## Navigation description 
 
-## Out of school activities page
+In summary,the naviagtion is going to be a scroll down which I chose since there are other options to have it go left or right on microsoft sway. All of these sections are all connected obviously because it is a Sway presentation and all of them can be seen just by scrolling up and down. In the image, this is the order they are going to be in, there will be specific layouts applied to each of these sections that will be explained in the storyboard documentation. 
 
-<img src="../Img/navigation/OutOfSchoolNav.jpg" alt="alt text" height="100%" width="100%">
+## Why this naviagtion
 
-|   | Out of school  | Hobbies  | Karate  | Gym  | 
-|---|---|---|---|---|
-| Out of school  | &#x2611;  | &#x2611;  |  &#x2612; | &#x2612;  |
-| Hobbies | &#x2612;  | &#x2611;  | &#x2611;  | &#x2612;  |
-| Karate  | &#x2612;  | &#x2612;  | &#x2611;  | &#x2611;  |
-| Gym | &#x2611; | &#x2612; | &#x2612; | &#x2611;|
-
-## My skills page
-
-<img src="../Img/navigation/MySkillsNav.jpg" alt="alt text" height="100%" width="100%">
-
-|   | My skills  | Favourite subjects  | Strengths and weaknesses  |   
-|---|---|---|---|
-| My skills  | &#x2611;   | &#x2611;   | &#x2611;   |  
-| Favourite Subjects  | &#x2611;   | &#x2611;   | &#x2611;   |  
-| Strengths and weaknesses  | &#x2611;   | &#x2611;   | &#x2611;   |  
-
-## Work experience page
-
-<img src="../Img/navigation/WorkExperienceNav.jpg" alt="alt text" height="100%" width="100%">
-
-|   | Work experience  | Where I worked | What I did  |   
-|---|---|---|---|
-| Work experience  | &#x2611;   | &#x2611;   | &#x2611;   |  
-| Where I worked  | &#x2611;   | &#x2611;   | &#x2611;   |  
-| What I did  | &#x2611;   | &#x2611;   | &#x2611;   |  
-
-## Summary
-
-In summary, the navigation system is quite consistent throughout all pages of the portfolio except for the slight changes for the navigation of the sub pages. The navigation for the 'My education' and 'Out of school activities' sub pages are the same and the navigation for the 'My skills' and 'Work experience' sub pages are the exact same, those are the only differences, the five main web pages are all connected together.
+The reason I chose Sway and to have this navigation is because a portfolio is used to showcase your achievements, skill and personality and this simple navigation makes showcasing these key points much easier since having this simple navigation can allow me to have a much more professional and appealing layout. The people who would want to view this portfolio won't have to deal with a complex navigation system awhen all they have to do is just scroll down and easily find what they're looking for. 
