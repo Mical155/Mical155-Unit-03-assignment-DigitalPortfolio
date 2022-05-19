@@ -12,15 +12,21 @@ The image will be an image of me for my personal profile and the about me descri
 
 <img src="../Img/storyboards/MyEducationStoryboard.jpg" alt="alt text" height="100%" width="100%">
 
-This section is an introduction of my education experience in three schools I went to and the next three sections will go into more detail. Since this an introduction there isn't much to this page. There is the header at the top which will have that blue background like all of the other headers within this portfolio. There is text underneath that which is the introduction of my educational experience
+This section is an introduction of my education experience in three schools I went to and the next three sections will go into more detail. Since this an introduction there isn't much to this page. There is the header at the top which will have that blue background like all of the other headers within this portfolio. There is text underneath that which is the introduction of my educational experience and it identifies all three of the schools that I went to which is Cavalry Primary, Neale-Wade Academy and College of West Anglia. Then underneath that is a slide show of three images, each image is an establishing shot of the buildings of the three schools.
+
+I though that this layout for this section is appropriate because this section is only an introduction to three other sections which contain more detail. So in conclusion this section won't require a vast amount of features and components when it is only an introduction with a slide show.
 
 ## My college section
 
 <img src="../Img/storyboards/MyCollegeStoryboard.jpg" alt="alt text" height="100%" width="100%">
 
+This is one of the three sections that is apart of the 'My education' section. This section goes over some of my college experiences and it is one of the longer sections since it contains some of the work I completed in my computing course. It has two groups of text with one of them explaining my work on hardware management and one explaining my unit 13 which is the website development coursework. Each one has four images which are used as evidence to show that I have done these tasks and to prove that I have decent knowledege on these topics. I believed that this is a great layout for this section because contains all of this content into an organised and tidy layout which is crutial because the portfolio is mainly used to gain employers attention and having a professional layout is something that indicates that you put effort into it.
+
 ## Neale-Wade section
 
 <img src="../Img/storyboards/Neale-WadeStoryboard.jpg" alt="alt text" height="100%" width="100%">
+
+This section is the second of the three sections within the 'my education' section which explains my time in Neale-Wade Academy. The main attraction of this section is the topic of my GCSE results which is something that employers look for, so it is important to showcase them. Underneath the image of my GCSE results is an explanation for why media studies was my favourite chosen subject, this will give context to employers of what type of subjects interest me and how they ineterest me. The first reason this is my chosen layout for this section is because the image is at an appropriate size because it makes the results on it much more easily readable. 
 
 ## Cavalry Primary section
 
