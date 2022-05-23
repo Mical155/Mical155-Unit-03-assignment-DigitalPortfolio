@@ -44,3 +44,28 @@ This section is the second of the three sections within the 'my education' secti
 
 <img src="../Img/storyboards/WorkExperienceStoryboard.jpg" alt="alt text" height="100%" width="100%">
 
+# Alternative storyboards
+
+These are some alternative ideas that I had when it came to making the storyboards for my digital portfolio, I obviously ended up choosing the other designs for the portfolio. Some of the storyboards may not have an alternatives because I didn't have any other possible ideal layouts for them meaning that the layout I chose for them already convinced me that they are the one I will go with. 
+
+## My education section
+
+<img src="../Img/storyboards/AlternateMyEducationStoryboard.jpg" alt="alt text" height="100%" width="100%">
+
+In this alternate design the three images of the schools that I went to are not in a slide show but are in a group with one of the images being a moderate size and the other two being a rather small size. Another difference between this layout and the original is the introduction being underneath the three images instead of coming before them. The reasons I chose the other layout over this one is because the three images may not appear in decent quality when they have the subtle emphasis setting, having the two bottom images this small size might make them difficult to see since the images are meant to be moderately large, also having them all a moderate size in a slide show not only makes the content on them more visible but it also saves some space.
+
+I believe that the original design having the introduction above the images is better because it contains an explanation for what the images are and what they mean and it just gives people an explanation of the content to come before they see it whereas in this version it explains the images purpose after. In conclusion, having the introduction above the images does a better job at identifying what they are meant for so that anyone will know their purpose for when they see the images. 
+
+## My College section
+
+<img src="../Img/storyboards/AlternateMyCollegeStoryboard.jpg" alt="alt text" height="100%" width="100%">
+
+In this alternate design for the 'My College' section the only differenes beteen this and the original storyboard is the images of my course work and practicals are in slide shows that are at a moderate size. I chose the original storyboard over thsi one because some of the images have a small width so having them on a moderate sized slide show which could make them look stretched out. Whereas, having them in organised layout will allow sway to place them in their own sizes making them easier to see. One example for one of the images that have a short width is the opening view of the mobile version of my website, since it is made to be compatible with a phone it will have a similar size to a phone which means it will have a short width.
+
+## Work experience section
+
+<img src="../Img/storyboards/AlternateWorkExperienceStoryboard.jpg" alt="alt text" height="100%" width="100%">
+
+This alternate version of the 'Work Experience' section has the image of the Blue Chip logo at the largest size setting with the description being underneath instead of being on the right of the logo. The screenshot of my logged work hours are at the smallest size setting instead of being at the largest like the original design, the description is also on the left of the image instead of being placed underneath it. I ended up choosing the original storyboard over this one because it is mainly to do with the image sizes. The image of the Blue Chip logo is actually not meant to be a large image which means having it a this size will make the image have seem distorted. The logged hours image has the opposite problem, the screenshot is meant to be a large image due to its long width, so having this image compressed to a small size on this design will make the content on the image barely readable. 
+
+
