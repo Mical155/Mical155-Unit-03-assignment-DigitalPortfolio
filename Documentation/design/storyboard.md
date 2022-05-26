@@ -64,9 +64,14 @@ What makes this layout able to meet the audiences needs is the fact that it is e
 
 <img src="../Img/storyboards/WorkExperienceStoryboard.jpg" alt="alt text" height="100%" width="100%">
 
+This storyboard is the layout of the 'Work Experience' section on my digital portfolio. The first half  of this layout is very similar to the last two storyboards
+but the difference being that the image is on the left side and the information is the right side, the description will include a link to Blue Chips website. The image will be the logo of Blue Chip Brand Solutions which is the 3D digital printing company I did my 60 hours of work experience at, the image will be given the small size setting. Underneath that is an image with the largest size setting containing a screenshot of my logged work experience hours which will be used as proof that I have done my 60 hours, underneath that image is just further information of my experience at Blue Chip Brand Solutions. 
+
+I believe that this layout meets the audiences needs because the image of the logo and the description next to it is a great way to give the audience some context onto my work experience because not only am I providing information on what they do, I am also proviiding their logo and website link so that the audience will know exactly what the company does and that will indicate waht skills I must've learned there. 
+
 # Alternative storyboards
 
-These are some alternative ideas that I had when it came to making the storyboards for my digital portfolio, I obviously ended up choosing the other designs for the portfolio. Some of the storyboards may not have an alternatives because I didn't have any other possible ideal layouts for them meaning that the layout I chose for them already convinced me that they are the one I will go with. 
+These are some alternative ideas that I had when it came to making the storyboards for my digital portfolio, I obviously ended up choosing the other designs for the portfolio. Some of the storyboards may not have an alternatives because I didn't have any other possible ideal layouts for them meaning that the layout I chose for them already convinced me that they are the one that I will go with. 
 
 ## My education section
 

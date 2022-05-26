@@ -6,7 +6,7 @@ Here is a group of tables which contains the assets that I will be using in my d
 
 | Source  | Image | Copyright  | size  | position on portfolio  |
 |---|---|---|---|---|
-| https://www.telegraph.co.uk/education/0/college-of-west-anglia-guide/ | College of West Anglia building  | Y  | 1470 x 919 | Will be used as the background of the title  | 
+| https://www.telegraph.co.uk/education/0/college-of-west-anglia-guide/ | College of West Anglia building  | Y  | 1200 x 850 | Will be used as the background of the title  | 
 | https://students.cwa.ac.uk/learner/434879 | image of myself | N | 450 x 450 | Will be the only image on the 'about me' section |
 
 I put the two assets in the 'Title' and 'about me' sections in the same asset table because there is one image on each section. The image in the 'Title' section is just used for design, being the background of the 'Title' section. The image in the 'about me' section will be next to the information about me, pretty much used as a little personal profile.
@@ -39,7 +39,7 @@ In this table, the first asset is actually four images, I only made them one ass
 | Source  | Image  | Copyright  | size  | position on portfolio  |
 |---|---|---|---|---|
 | https://students.cwa.ac.uk/learner/434879  | GCSE results  | N  | 1019 x 488  | Will be the only image in the Neale-Wade section in the 'my education' section  |
-|   | Sports day photo  |   |   | Will be the only image in the Cavalry Primary section in the 'my education' section  |
+ | Taken photo | Sports day photo  | N  | 1280 x 1280  | Will be the only image in the Cavalry Primary section in the 'my education' section  |
 
 Like the first asset table, there is only one image on each of these sections so I just put them into one asset table. The GCSE results will be on the 'Neale-Wade' section; used as evidence that I got decent grades. The image on the 'Cavalry Primary' section is an image of me at sports day which will be used to convince people that I am willing to participate in activites and that I have confidence.
 
@@ -48,9 +48,9 @@ Like the first asset table, there is only one image on each of these sections so
 | Source  | Image  | Copyright  | size  | position on portfolio  |
 |---|---|---|---|---|
 | https://www.fenlandcitizen.co.uk/news/encouraging-more-people-to-exercise-9086833/  | Hudson Leisure Centre  | Y  | 620 x 411  | Will be the first image on the slide show in the 'My Hobbies' section  |
-|   | Me in my karate dojo  | N  | 450 x 450  | Will be the second image on the slide show in the 'My Hobbies' section  |
+| Taken photo  | Me in my karate dojo  | N  | 350 x 500  | Will be the second image on the slide show in the 'My Hobbies' section  |
 
-The 'My Hobbies' section will have two images conatined in a slide show. One of them is an image of the Hudson Leisure Centre which has the gym I go to, the other is an image of me at my karate dojo. These will be used to highlight the fact that I am dedicated and am willing to put effort into anything that I am working on.
+The 'My Hobbies' section will have two images conatined in a slide show. One of them is an image of the Hudson Leisure Centre which has the gym I go to, the other is an image of me at my karate dojo. These will be used to highlight the fact that I am dedicated and am willing to put effort into anything that I am working on which will help this portfolio into meeting the audiences needs since thta is the attitude poeple like employers look for.
 
 ## My skills section
 
@@ -58,7 +58,9 @@ The 'My Hobbies' section will have two images conatined in a slide show. One of 
 |---|---|---|---|---|
 | https://educwaac-my.sharepoint.com/:w:/r/personal/434879_edu_cwa_ac_uk/_layouts/15/Doc.aspx?sourcedoc=%7BBC495C24-0E91-4820-BD24-B7C9C32D26A5%7D&file=Mitchell%20CV.docx&action=default&mobileredirect=true&DefaultItemOpen=1&login_hint=434879%40edu.cwa.ac.uk&ct=1652708549136&wdOrigin=OFFICECOM-WEB.MAIN.EDGEWORTH&cid=5d31cade-27eb-40cf-8607-8e98cb3eb736  | My personal CV opening view  | N  | 813 x 825  | Will be the only image on the 'My Skills' section  |
 
-There is only one image in this asset table, I decided not to convert this section with another to make one asset table because the link for the source of this asset is very long. The asset is an image of the opening view of my CV which contains a full explanation of my skills and why they are my main skills. There is also a link within the text for this section that will take you to the actual word document of my CV.
+There is only one image in this asset table, I decided not to convert this section with another to make one asset table because the link for the source of this asset is very long. The asset is an image of the opening view of my CV which contains a full explanation of my skills and why they are my main skills. There is also a link within the text for this section that will take you to the actual word document of my CV. 
+
+The CV will be used to explain my main skills and even some work experience that I hva eincluded in there, it will also showcase my past grades which I included on the CV. In summary, the CV includes a lot of valuable information that is very relevant to employers.
 
 ## Work experience section
 
@@ -67,7 +69,7 @@ There is only one image in this asset table, I decided not to convert this secti
 | http://www.bluechipbs.co.uk/  | Blue Chip Brand Solutions logo  | Y  | 800 x 604  | Will be the first image on the 'work experience' section  | 
 | https://students.cwa.ac.uk/learner/434879/experiences  | Logged hours of work experience  | N  | 1887 x 498  | Will be the second image on the 'work experience' section |
 
-There is two images in this section and one of them is the logo of Blue Chip Brand Solutions which was the company that I did my wrok experience at, it's mainly used for design and context. The second image in this section is a screenshot of my logged hours which has been cropped to only contain the content that is relevant, this will be used as evidence to show that I have completed my 60 hours of work experience.
+There is two images in this section and one of them is the logo of Blue Chip Brand Solutions which was the company that I did my wrok experience at, it's mainly used for design and context. The second image in this section is a screenshot of my logged hours which has been cropped to only contain the content that is relevant, this will be used as evidence to show that I have completed my 60 hours of work experience, this will be relevant to the audience since it will highlight that I have a clear understanding of how a working environment should function and that I am aware of what is expected of me. 
 
-Most of the images do have random sizes but the main reason is becuase sway has a feature where it can resize the image to fit on the screen perfectly so it saved me time having to edit the size of the images on photoshop.
+Most of the images do have random sizes but the main reason is becuase sway has a feature where it can resize the image to fit on the screen perfectly and also to prevent it from being distorted, it saved me time having to edit the size of the images on photoshop.
 

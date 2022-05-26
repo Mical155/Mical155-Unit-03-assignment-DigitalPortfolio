@@ -10,19 +10,31 @@ Since I am going to be making this digital portfolio on microsoft sway the navig
 
 ## Go to table
 
-|   | Introduction  | About me  | My education  | Out of school  | My skills| Work experience |
-|---|---|---|---|---|---|---|
-| Introduction  | &#x2611;  | &#x2611;  | &#x2611;  |  &#x2611; | &#x2611; | &#x2611;|
-| About me  | &#x2611;  | &#x2611;  | &#x2611;  |  &#x2611; | &#x2611; | &#x2611; |
-| My education  | &#x2611;  | &#x2611;  | &#x2611;  | &#x2611;  |  &#x2611;|  &#x2611;|
-| Out of school | &#x2611; | &#x2611; | &#x2611; | &#x2611; |&#x2611; | &#x2611;
-| My skills | &#x2611; | &#x2611; | &#x2611; | &#x2611; | &#x2611; | &#x2611;
-| Work experience | &#x2611; | &#x2611; | &#x2611; | &#x2611; | &#x2611; | &#x2611;
+|   | Title  | About me  | My education  | My College  | Practical Work | My website | Neale-Wade | Cavalry Primary | My Hobbies | My Skills | My CV | Work experience | Blue Chip website |
+|---|---|---|---|---|---|---|---|---|--|---|---|---|---|
+| Title  | &#x2611;  | &#x2611;  | &#x2611;  | &#x2611;  | &#x2612; | &#x2612; | &#x2611; | &#x2611; | &#x2611;| &#x2611; | &#x2612; | &#x2611; | &#x2612; |         
+| About me  | &#x2611;  | &#x2611;  | &#x2611;  | &#x2611;  | &#x2612; | &#x2612; | &#x2611; | &#x2611; | &#x2611;| &#x2611; | &#x2612; | &#x2611; | &#x2612; |         
+| My education  | &#x2611;  | &#x2611;  | &#x2611;  | &#x2611;  | &#x2612; | &#x2612; | &#x2611; | &#x2611; | &#x2611;| &#x2611; | &#x2612; | &#x2611; | &#x2612; |         
+| My College | &#x2611;  | &#x2611;  | &#x2611;  | &#x2611;  | &#x2611; | &#x2611; | &#x2611; | &#x2611; | &#x2611;| &#x2611; | &#x2612; | &#x2611; | &#x2612; |         
+| Practical Work | &#x2612;  | &#x2612;  | &#x2612;  | &#x2611;  | &#x2611; | &#x2612; | &#x2612; | &#x2612; | &#x2612;| &#x2612; | &#x2612; | &#x2612; | &#x2612; |         
+| My website | &#x2612;  | &#x2612;  | &#x2612;  | &#x2611;  | &#x2612; | &#x2611; | &#x2612; | &#x2612; | &#x2612;| &#x2612; | &#x2612; | &#x2612; | &#x2612; |         
+| Neale-Wade | &#x2611;  | &#x2611;  | &#x2611;  | &#x2611;  | &#x2612; | &#x2612; | &#x2611; | &#x2611; | &#x2611;| &#x2611; | &#x2612; | &#x2611; | &#x2612; |         
+| Cavalry Primary | &#x2611;  | &#x2611;  | &#x2611;  | &#x2611;  | &#x2612; | &#x2612; | &#x2611; | &#x2611; | &#x2611;| &#x2611; | &#x2612; | &#x2611; | &#x2612; |         
+| My Hobbies | &#x2611;  | &#x2611;  | &#x2611;  | &#x2611;  | &#x2612; | &#x2612; | &#x2611; | &#x2611; | &#x2611;| &#x2611; | &#x2612; | &#x2611; | &#x2612; |         
+| My Skills | &#x2611;  | &#x2611;  | &#x2611;  | &#x2611;  | &#x2612; | &#x2612; | &#x2611; | &#x2611; | &#x2611;| &#x2611; | &#x2611; | &#x2611; | &#x2612; |         
+| My CV | &#x2612;  | &#x2612;  | &#x2612;  | &#x2612;  | &#x2612; | &#x2612; | &#x2612; | &#x2612; | &#x2612;| &#x2611; | &#x2611; | &#x2612; | &#x2612; 
+| Work experience |  &#x2611;  | &#x2611;  | &#x2611;  | &#x2611;  | &#x2612; | &#x2612; | &#x2611; | &#x2611; | &#x2611;| &#x2611; | &#x2612; | &#x2611; | &#x2611; |         
+| Blue Chip website |  &#x2612;  | &#x2612;  | &#x2612;  | &#x2612;  | &#x2612; | &#x2612; | &#x2612; | &#x2612; | &#x2612;| &#x2612; | &#x2612; | &#x2611; | &#x2611; 
 
-## Navigation description 
+## Navigation description
 
-In summary,the naviagtion is going to be a scroll down which I chose since there are other options to have it go left or right on microsoft sway. All of these sections are all connected obviously because it is a Sway presentation and all of them can be seen just by scrolling up and down. In the image, this is the order they are going to be in, there will be specific layouts applied to each of these sections that will be explained in the storyboard documentation. 
+Firstly, the nine sections in the middle of the navigation map are the main sections that make up the digital portfolio. Each one of them are connected since they are all in one sway presentation, no matter which section you are on you can access any other section at any time.
 
-## Why this naviagtion
+The sections that are on the sides of the navigation map (My CV, Practical work, My website and Blue Chips website) are accessible through links that are only included in the section that they are connected to on the naviagtion map, for example the link to Blue Chips website is only accessible in the 'Work experience' section on the digital portfolio. They are not connected to any of the other sections as seen on the navigation map since the links to them aren't available on the other sections.
 
-The reason I chose Sway and to have this navigation is because a portfolio is used to showcase your achievements, skill and personality and this simple navigation makes showcasing these key points much easier since having this simple navigation can allow me to have a much more professional and appealing layout. The people who would want to view this portfolio won't have to deal with a complex navigation system awhen all they have to do is just scroll down and easily find what they're looking for. 
+I chose this navigation structure because it is basic and straightfoward which is important when it comes to a portfolio since all employers want is a portfolio that very clearly represents you, so making the navigation simple will save them time having to having to scavenge through my portfolio in order to find information that may interest them. Another reason why simple navigation is great for a portfolio, it can tell employers that you like to keep everything organised to make things much easier on yourself and anyone else which is also useful when it comes to working in an IT related job. 
+
+
+
+
+
