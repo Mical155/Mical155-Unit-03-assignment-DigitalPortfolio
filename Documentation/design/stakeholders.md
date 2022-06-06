@@ -63,3 +63,8 @@ Just like the still images, the videos can be used for evidence which showcases 
 - description of me and my education
 - good opinions and statements on myself
 
+## Portfolio Timeline
+
+To make sure that I use my time wisely whilst making this digital portfolio, I have made a timeline which contains all of the steps I will be taking, also including all of the dates for when I start these steps. 
+
+<img src="../Img/Timeline/Timeline.jpg" alt="alt text" height="100%" width="100%">

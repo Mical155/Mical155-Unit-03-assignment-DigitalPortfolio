@@ -41,16 +41,18 @@ In this table, the first asset is actually four images, I only made them one ass
 | https://students.cwa.ac.uk/learner/434879  | GCSE results  | No  | 1019 x 488  | Will be the only image in the Neale-Wade section in the 'my education' section  |
  | Taken photo | Sports day photo  | No  | 1280 x 1280  | Will be the only image in the Cavalry Primary section in the 'my education' section  |
 
-Like the first asset table, there is only one image on each of these sections so I just put them into one asset table. The GCSE results will be on the 'Neale-Wade' section; used as evidence that I got decent grades. The image on the 'Cavalry Primary' section is an image of me at sports day which will be used to convince people that I am willing to participate in activites and that I have confidence.
+Like the first asset table, there is only one image on each of these sections so I just put them into one asset table. The GCSE results will be on the 'Neale-Wade' section; used as evidence that I got decent grades. The image on the 'Cavalry Primary' section a taken photo of me at sports day which will be used to convince people that I am willing to participate in activites and that I have confidence.
+
+The size of the GCSE results image is very random but it perfcetly conatins all of the relevant information and it is also a cropped image. 
 
 ## My Hobbies section
 
 | Source  | Image  | Copyright  | size  | position on portfolio  |
 |---|---|---|---|---|
-| https://www.fenlandcitizen.co.uk/news/encouraging-more-people-to-exercise-9086833/  | Hudson Leisure Centre  | Yes  | 620 x 411  | Will be the first image on the slide show in the 'My Hobbies' section  |
+| https://www.fenlandcitizen.co.uk/news/encouraging-more-people-to-exercise-9086833/  | Hudson Leisure Centre  | Yes  | 270 x 180  | Will be the first image on the slide show in the 'My Hobbies' section  |
 | Taken photo  | Me in my karate dojo  | No  | 350 x 500  | Will be the second image on the slide show in the 'My Hobbies' section  |
 
-The 'My Hobbies' section will have two images conatined in a slide show. One of them is an image of the Hudson Leisure Centre which has the gym I go to, the other is an image of me at my karate dojo. These will be used to highlight the fact that I am dedicated and am willing to put effort into anything that I am working on which will help this portfolio into meeting the audiences needs since thta is the attitude poeple like employers look for.
+The 'My Hobbies' section will have two images conatined in a slide show. One of them is an image of the Hudson Leisure Centre which has the gym I go to, the other is a photo of me at my karate dojo which was taken by my parents. These will be used to highlight the fact that I am dedicated and am willing to put effort into anything that I am working on which will help this portfolio into meeting the audiences needs since thta is the attitude poeple like employers look for.
 
 ## My skills section
 
@@ -62,14 +64,16 @@ There is only one image in this asset table, I decided not to convert this secti
 
 The CV will be used to explain my main skills and even some work experience that I hva eincluded in there, it will also showcase my past grades which I included on the CV. In summary, the CV includes a lot of valuable information that is very relevant to employers.
 
+This image is a cropped image containing only the relevant information hence why the size is quite random. 
+
 ## Work experience section
 
 | Source  | Image  | Copyright  | size  | position on portfolio  |
 |---|---|---|---|---|
-| http://www.bluechipbs.co.uk/  | Blue Chip Brand Solutions logo  | Yes  | 800 x 604  | Will be the first image on the 'work experience' section  | 
+| http://www.bluechipbs.co.uk/  | Blue Chip Brand Solutions logo  | Yes  | 260 x 200  | Will be the first image on the 'work experience' section  | 
 | https://students.cwa.ac.uk/learner/434879/experiences  | Logged hours of work experience  | No  | 1887 x 498  | Will be the second image on the 'work experience' section |
 
-There is two images in this section and one of them is the logo of Blue Chip Brand Solutions which was the company that I did my wrok experience at, it's mainly used for design and context. The second image in this section is a screenshot of my logged hours which has been cropped to only contain the content that is relevant, this will be used as evidence to show that I have completed my 60 hours of work experience, this will be relevant to the audience since it will highlight that I have a clear understanding of how a working environment should function and that I am aware of what is expected of me. 
+There is two images in this section and one of them is the logo of Blue Chip Brand Solutions which is the company that I did my work experience at, it's mainly used for design and context. The second image in this section is a screenshot of my logged hours which has been cropped to only contain the content that is relevant, this will be used as evidence to show that I have completed my 60 hours of work experience, this will be relevant to the audience since it will highlight that I have a clear understanding of how a working environment should function and that I am aware of what is expected of me. The size for the image of my logged hours is quite random but it is the perfect size to contain all of the important information since it is a cropped screenshot. 
 
-Most of the images do have random sizes but the main reason is becuase sway has a feature where it can resize the image to fit on the screen perfectly and also to prevent it from being distorted, it saved me time having to edit the size of the images on photoshop.
+
 
