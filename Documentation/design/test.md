@@ -57,7 +57,6 @@ Since these images are new additions to my portfolio, here is an asset table of 
 | https://uk.pcmag.com/office-suites/2318/microsoft-powerpoint-2016  | PowerPoint logo  | Yes  | 800  |  
 | | | | |
 
-
 # Review 
 
 After making my digital portfolio I must say that I am quite satisfied with the final design, I believe that it meets the target audience requirements since it has a large variety of relevant information and reasonable statements for why they are relevant. My navigation is very straightforward since no employer wants to spend most of their time struggling to navigate through a complex navigation system. My chosen color scheme I believe is very IT related, it is a commonly used color scheme in the online world.  
