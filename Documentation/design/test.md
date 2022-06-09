@@ -16,7 +16,7 @@ After I received feedback from Ashley, I then decided to get feedback from one o
 
 ## 1st improvement  
 
-The first piece of feedback that I received from Patryk was for me to 'write about MOS (Microsoft Office Specialist)'. Including information about my exams on the Microsoft Office Specialist I believe is not important at this time since I have not finished all of them yet. If I had finished all of them however, I would include this on my portfolio. 
+The first piece of feedback that I received from Patryk was for me to 'write about MOS (Microsoft Office Specialist)'. Including information about my exams on the Microsoft Office Specialist exams I believe can prove quite useful in gaining the attention of potential IT employers since the Microsoft software such as Word, PowerPoint and Excel are commonly used in IT workplaces, so it would be ideal to highlight the fact that I have some experience and knowledge of them. 
 
 ## 2nd improvement 
 
@@ -36,9 +36,27 @@ fter the feedback about some of the grammar, I just simply reworded all the gram
 
 ## 3rd change 
 
-Eventually, after the received feedback I decided to make a change to my portfolio that I thought was a great idea. I added a video onto the 'My hobbies' section of me at my karate dojo. The main purpose of this video is to add a bit of variety into my portfolio, like Lisa mentioned to me in my storyboard feedback, stuff like this highlights that I have put some thought into my portfolio.  
+Eventually, after the received feedback I decided to make a change to my portfolio that I thought was a great idea. I added a video onto the 'My hobbies' section of me at my karate dojo. The main purpose of this video is to add a bit of variety into my portfolio, like Lisa mentioned to me in my storyboard feedback, stuff like this highlights that I have put some thought into my portfolio. Here is a screenshot of the video that I have added to my digital portfolio. 
 
-<img src="../vid/VideoImage.png" alt="alt text" height="100%" width="100%"> 
+<img src="../Img/Changes/VideoImage.png" alt="alt text" height="100%" width="100%"> 
+
+## 4th change
+
+After the hearing the feedback that I recieved from Patryk, I eventually added some explanation about my my MOS exams and also a screenshot of some of my scores as evidence and three images of the Word, PowerPoint and Excel logos which are just for design. 
+Here are two screenshots, one being the added MOS exam explanation and one being the added images of my MOS exam results and the Microsoft software logos. 
+
+<img src="../Img/Changes/MOSexplanation.png" alt="alt text" height="100%" width="100%"> 
+
+<img src="../Img/Changes/MOSimage.png" alt="alt text" height="100%" width="100%">
+
+Since these images are new additions to my portfolio, here is an asset table of where I have got them from since the logos may be subjects to copyright. 
+
+| Source  | Image  | Copyright  | size  | 
+|---|---|---|---|
+| https://www.pinterest.co.uk/pin/801077852464755063/  | Word logo  | Yes  | 768 x 735  |  
+| https://uk.pcmag.com/office-suites/2318/microsoft-powerpoint-2016  | PowerPoint logo  | Yes  | 800  |  
+| | | | |
+
 
 # Review 
 
