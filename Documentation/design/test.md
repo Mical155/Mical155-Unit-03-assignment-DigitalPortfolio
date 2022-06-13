@@ -28,22 +28,24 @@ These are the features of my portfolio that I have changed after receiving the f
 
 ## 1st change 
 
-The first thing that I changed was the statements on my portfolio. As Ashley mentioned I made them sharper, I improved the explanation for why the images on the portfolio are relevant. I just did some more proofreading after this change to make sure that all my grammar was correct.  
+The first thing that I changed was the statements on my portfolio. As Ashley mentioned I made them sharper, I improved the explanation for why the images on the portfolio are relevant. I just did some more proofreading after this change to make sure that all my grammar was correct. I agreed to make this change to my statements because I also believed that they could be better at explaining why the images and the topic that I was talking about was relevant to getting a job. Having a clear explanation for what my explanation and assets prove is importnat because it obviously reflects me and my attitude towards getting a job, explaining what everything proves will indicate that I am putting in effort and that I am not making this portfolio for the sake of it, also it will convince employers that I have knowledge on certain subjects and it can also convince employers that I have the skills and great attitude that I discussed in my portfolio. 
 
 ## 2nd change  
 
-fter the feedback about some of the grammar, I just simply reworded all the grammar errors that Ashley pointed out whilst testing the digital portfolio. Whilst proofreading throughout the entire portfolio, I did not find any more spelling or grammar errors. 
+After the feedback from Ashley where he made me aware of the grammar errors, I just simply did some proofreading through my portfolio to make sure that I haven't made any more grammar errors whilst correcting the ones that Ashley pointed out. I agreed that it is important to make this change to my portfolio because having poor grammar will be terrible at convincing employers that I put in effort since because it shows that I haven't done any proofreading. Having great grammar however, can convince employers that I have put in the effort into my portfolio and that I clearly care about getting employed. 
 
 ## 3rd change 
 
-Eventually, after the received feedback I decided to make a change to my portfolio that I thought was a great idea. I added a video onto the 'My hobbies' section of me at my karate dojo. The main purpose of this video is to add a bit of variety into my portfolio, like Lisa mentioned to me in my storyboard feedback, stuff like this highlights that I have put some thought into my portfolio. Here is a screenshot of the video that I have added to my digital portfolio. 
+Eventually, after the testing the protfolio for the first time, I decided to make a change to my portfolio which I thought was a great idea. I added a video onto the 'My hobbies' section of me at my karate dojo. The main purpose of this video is to add a bit of variety into my portfolio, like Lisa mentioned to me in my storyboard feedback, stuff like this highlights that I have put some thought into my portfolio which is the sort of thing that convinces employers that I am interested in getting an IT related job. Here is a screenshot of the video that I have added to my digital portfolio. 
 
 <img src="../Img/Changes/VideoImage.png" alt="alt text" height="100%" width="100%"> 
 
 ## 4th change
 
-After the hearing the feedback that I recieved from Patryk, I eventually added some explanation about my my MOS exams and also a screenshot of some of my scores as evidence and three images of the Word, PowerPoint and Excel logos which are just for design. 
+After the hearing the feedback that I recieved from Patryk, I eventually added some explanation about my MOS exams and also a screenshot of some of my scores as evidence and three images of the Word, PowerPoint and Excel logos which are just for design. 
+
 Here are two screenshots, one being the added MOS exam explanation and one being the added images of my MOS exam results and the Microsoft software logos. 
+I chose to add this because I agreed with Patryk that this is relevant information for employers since these pieces of software are common in IT workplaces and displaying my knowledge of them on my portfolio can really help in convincing employers that I am worth the attention. 
 
 <img src="../Img/Changes/MOSexplanation.png" alt="alt text" height="100%" width="100%"> 
 
@@ -55,7 +57,7 @@ Since these images are new additions to my portfolio, here is an asset table of 
 |---|---|---|---|
 | https://www.pinterest.co.uk/pin/801077852464755063/  | Word logo  | Yes  | 768 x 735  |  
 | https://uk.pcmag.com/office-suites/2318/microsoft-powerpoint-2016  | PowerPoint logo  | Yes  | 800  |  
-| | | | |
+| https://www.seekpng.com/ipng/u2e6e6a9r5q8r5r5_program-descriptions-my-analytics-guy-microsoft-excel-logo/ | Excel logo | Yes | 820 x 516 |
 
 # Review 
 
