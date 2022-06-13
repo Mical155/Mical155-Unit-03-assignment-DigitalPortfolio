@@ -46,6 +46,8 @@ The final design does have a few changes to the original design, but you can see
 
 Eventually, after the testing the protfolio for the first time, I decided to make a change to my portfolio which I thought was a great idea. I added a video onto the 'My hobbies' section of me at my karate dojo. The main purpose of this video is to add a bit of variety into my portfolio, like Lisa mentioned to me in my storyboard feedback, stuff like this highlights that I have put some thought into my portfolio which is the sort of thing that convinces employers that I am interested in getting an IT related job. Here is a screenshot of the video that I have added to my digital portfolio. 
 
+This compared to the original where this section didn't include the video, this updated version, is obviously better since it has additional evidence of me doing my out of school activities and that I am actually experienced in them. Including content like this gives the updated version the edge over the original because evidence like this video supports my statements on the topic it is based on which will convince an employer that I actually possess the skills that these activities that I have taken part in offer. 
+
 <img src="../Img/Changes/VideoImage.png" alt="alt text" height="100%" width="100%"> 
 
 After all of the feedback that I recieved there was a featutre I did add which was my idea. I eventually added some explanation about my MOS exams and also a screenshot of some of my scores as evidence and three images of the Word, PowerPoint and Excel logos which are just for design. 
