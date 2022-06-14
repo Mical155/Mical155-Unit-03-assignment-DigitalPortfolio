@@ -10,9 +10,9 @@ The first piece of feedback that I received was that I should 'proofread' my por
 
 The second piece of feedback that I received was Ashley recommending that I 'sharpen the statements about what the evidence on my portfolio proves'. I need to make more statements on the information about the evidence that would be more relevant and interesting to employers. Yet again this will be a simple fix just by me rewording some of the text where this is the case. I totally agreed with this feedback since I am aware that a portfolio must include the most relevant information possible to set apart my application from other people that are applying for the same job. 
 
-# Second feedback 
+# Student feedback
 
-After I received feedback from Ashley, I then decided to get feedback from one of the other students in my class. The student that gave me feedback was Patryk Milasevski. After going through the portfolio with him he also had two main improvements that he had in mind.  
+After I received feedback from Ashley, I then decided to get feedback from one of the other students in my class. Here are the comments made by students on my portfolio. 
 
 ## 1st improvement  
 
