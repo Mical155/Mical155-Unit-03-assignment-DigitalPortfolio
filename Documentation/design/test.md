@@ -14,6 +14,24 @@ The second piece of feedback that I received was Ashley recommending that I 'sha
 
 After I received feedback from Ashley, I then decided to get feedback from one of the other students in my class. Here are the comments made by students on my portfolio. 
 
+# Student comments
+
+#### Aiden
+The font and colour scheme are great to view, there is a constant flow of images to support statements and all sorts. It is nicely designed and there is nothing at all wrong with it as far as I can see.
+
+#### Adam 
+The font and colour of your portfolio is very good to look at, the images on your portfolio are very helpful when it comes to backing up your claims. It is very well designed and there is nothing i would add personally.
+
+### Patryk
+The style you've chosen fits with the images & write up/description of your portfolio. It's really cool that you put a recent clip of your karate dojo & your achievements. Personally, I wouldn't add anything else because it's good.
+
+### Luke
+I like the colour scheme you have chosen and I like yours portfoilio's layout it is clean and professional. I like the use of text and videos and the  way they clearly state your skills and experience.
+
+### Ash 
+It looks very good because of the colour scheme and the pictures and you have a lot of nice information about yourself which is really cool.
+imorovements: the video could be better so the portfolio would look like something more professional.
+
 ## 1st improvement  
 
 The first piece of feedback that I received from Patryk was for me to 'write about MOS (Microsoft Office Specialist)'. Including information about my exams on the Microsoft Office Specialist exams I believe can prove quite useful in gaining the attention of potential IT employers since the Microsoft software such as Word, PowerPoint and Excel are commonly used in IT workplaces, so it would be ideal to highlight the fact that I have some experience and knowledge of them. 
