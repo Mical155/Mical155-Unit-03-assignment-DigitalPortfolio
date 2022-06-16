@@ -68,3 +68,5 @@ Just like the still images, the videos can be used for evidence which displays m
 To make sure that I use my time wisely whilst making this digital portfolio, I have made a timeline which contains all the steps I will be taking, also including all the dates for when I start these steps.  
 
 <img src="../Img/Timeline/Timeline.jpg" alt="alt text" height="100%" width="100%"> 
+
+A better view of the timeline for my portfolio is in the 'Timeline' folder in the 'Img' folder. 

@@ -1,4 +1,20 @@
-# Testing and feedback 
+# Testing 
+
+## 1st testing
+
+For the first testing which was just me testing my portfolio on a different system and web browser, I believed that it is good enough to recieve feedback from others. It wasn't a suprise that it would work on different systems since I created the portfolio on Microsoft Sway and Sway is an online software and not a standalone software. It also does work on different browsers such as Google Chrome and Microsoft Edge and it works as it should. However, before I ask for feedback on my portfolio, there are certain little features I would like to add to my portfolio such as a hyperlink to my first ever practical in college in the 'My College' section.
+
+## Added features
+
+I did end up adding that hyperlink before I asked for feedbcak on my portfolio and here is an image of it after and before it was added.
+
+## Here is the aftermath
+
+<img src="../Img/Changes/PracticalLink.png" alt="alt text" height="100%" width="100%">
+
+## This is before the addition
+
+<img src="../Img/Changes/BeforePracticalLink.png" alt="alt text" height="100%" width="100%">
 
 After I believed that my portfolio was suitable enough to get feedback, I did a test demonstration with my tutor Ashley Oliver. After going through my portfolio, he had two main points in the portfolio that I also believed that I should improve upon. 
 
@@ -26,19 +42,19 @@ The font and colour of your portfolio is very good to look at, the images on you
 The style you've chosen fits with the images & write up/description of your portfolio. It's really cool that you put a recent clip of your karate dojo & your achievements. Personally, I wouldn't add anything else because it's good.
 
 ### Luke
-I like the colour scheme you have chosen and I like yours portfoilio's layout it is clean and professional. I like the use of text and videos and the  way they clearly state your skills and experience.
+I like the colour scheme you have chosen and I like yours portfolio's layout it is clean and professional. I like the use of text and videos and the way they clearly state your skills and experience.
 
 ### Ash 
 It looks very good because of the colour scheme and the pictures and you have a lot of nice information about yourself which is really cool.
 imorovements: the video could be better so the portfolio would look like something more professional.
 
-## 1st improvement  
+## My thoughts on the feedback
 
-The first piece of feedback that I received from Patryk was for me to 'write about MOS (Microsoft Office Specialist)'. Including information about my exams on the Microsoft Office Specialist exams I believe can prove quite useful in gaining the attention of potential IT employers since the Microsoft software such as Word, PowerPoint and Excel are commonly used in IT workplaces, so it would be ideal to highlight the fact that I have some experience and knowledge of them. 
+Judging by the comments, my portfolio seems that it would easily meet the target audiences needs, there are a variety of positive comments towards the design, colour scheme and description which is helpful that they have mentioned that because I know now those features are not the ones I need to focus on improving. There is one improvement I was provided with by Ash, he stated that the video could be better in terms of quality to make it look more professional. I agree with this statement because I know that this was recorded on a phone, so the video shouldn't really be at a large size. To get the video to look the highest quality I can get it I have to reduce the size to the subtle emphasis setting on my Sway so it is at a size where it won't look distorted and it isn't too small up to the point where it would be barely visible. Here is my result.
 
-## 2nd improvement 
+<img src="../Img/Changes/VideoImage2.png" alt="alt text" height="100%" width="100%"> 
 
-The second piece of feedback that I received from Patryk is that he said I should include 'what you want to do in future'. Personally, I disagree that I should include this because I personally do not believe that it is relevant for gaining the attention of an IT job employer. My portfolio is used more for displaying my skills and past achievements instead of sharing my intentions.  
+Further explanation between this and the original will be included further down in the review. 
 
 # Refined content and reasoning
 
@@ -60,18 +76,37 @@ After making my digital portfolio I must say that I am quite satisfied with the 
 
 The final design does have a few changes to the original design, but you can see the comparison because the layout is still similar. This is because most of the changes that I have made to my portfolio are not the sort of changes that will make a huge change to the layout, they were more minor changes such as grammar and making my statements much sharper. The biggest difference between the final design and the original is the addition of the video that I added. Ashely's feedback on my grammar was extremely useful since I will need perfect grammar because the portfolio's purpose is to display my ability and having poor grammar is not going to help display that, my final design obviously has corrected grammar which is another reason it gives it the edge over the original. 
 
-## Changes made
+# Changes made
 
-Eventually, after the testing the protfolio for the first time, I decided to make a change to my portfolio which I thought was a great idea. I added a video onto the 'My hobbies' section of me at my karate dojo. The main purpose of this video is to add a bit of variety into my portfolio, like Lisa mentioned to me in my storyboard feedback, stuff like this highlights that I have put some thought into my portfolio which is the sort of thing that convinces employers that I am interested in getting an IT related job. Here is a screenshot of the video that I have added to my digital portfolio. 
+Here are the changes that I have made to my portfolio from when I did my first testing and feedback to now. 
 
-This compared to the original where this section didn't include the video, this updated version, is obviously better since it has additional evidence of me doing my out of school activities and that I am actually experienced in them. Including content like this gives the updated version the edge over the original because evidence like this video supports my statements on the topic it is based on which will convince an employer that I actually possess the skills that these activities that I have taken part in offer. 
+## 1st Change
+
+Eventually, I decided to make a change to my portfolio which I thought was a great idea. I added a video onto the 'My hobbies' section of me at my karate dojo. The main purpose of this video is to add a bit of variety into my portfolio, like Lisa mentioned to me in my storyboard feedback, stuff like this highlights that I have put some thought into my portfolio which is the sort of thing that convinces employers that I am interested in getting an IT related job. This was added right after Ashley's feedback and just before I asked for feedback from other students, hence why some of the comments include an improvement about a video.
+
+Like I mentioned above in the student feedback, I ended up changing the size of the video to make the quality slightly better because it was recorded on a phone which means having it a large size would make the quality not as good. Even though they both achieve the purpose of being evidence Including content like this gives the updated version the edge over the original because evidence like this video supports my statements on the topic it is based on which will convince an employer that I actually possess the skills that these activities that I have taken part in offer. Here is an image of the video before and after the size of it was changed by me to improve the quality. 
+
+## After change
+
+<img src="../Img/Changes/VideoImage2.png" alt="alt text" height="100%" width="100%"> 
+
+## Before change
 
 <img src="../Img/Changes/VideoImage.png" alt="alt text" height="100%" width="100%"> 
 
+## 2nd change
+
 After all of the feedback that I recieved there was a featutre I did add which was my idea. I eventually added some explanation about my MOS exams and also a screenshot of some of my scores as evidence and three images of the Word, PowerPoint and Excel logos which are just for design. 
 
-Here are two screenshots, one being the added MOS exam explanation and one being the added images of my MOS exam results and the Microsoft software logos. 
-I chose to add this because it is relevant information for employers since these pieces of software are common in IT workplaces and displaying my knowledge of them on my portfolio can really help in convincing employers that I am worth the attention. 
+Here are two screenshots, one being the added MOS exam explanation and one being the added images of my MOS exam results and the Microsoft software logos, both of these are found at the bottom of the 'My College' section. I chose to add this because it is relevant information for employers since these pieces of software are common in IT workplaces and displaying my knowledge of them on my portfolio can really help in convincing employers that I am worth the attention. It's obvious this makes the portfolio better than what is was like originally becuase this is juts extra information that will have a great likelyhood of convincing employers that you are worth their attention. Here are also images of the explanation and images of my practical work and website which were the only pieces of content in the 'My College' section before the addition of my MOS exams. 
+
+## 'My College' scetion content
+
+<img src="../Img/Changes/PracticalDescription.png" alt="alt text" height="100%" width="50%"> 
+
+<img src="../Img/Changes/WebsiteDescription.png" alt="alt text" height="100%" width="50%"> 
+
+## Added MOS images and explanation to 'My College' section 
 
 <img src="../Img/Changes/MOSexplanation.png" alt="alt text" height="100%" width="100%"> 
 
@@ -82,11 +117,11 @@ Since these images are new additions to my portfolio, here is an asset table of 
 | Source  | Image  | Copyright  | size  | 
 |---|---|---|---|
 | https://www.pinterest.co.uk/pin/801077852464755063/  | Word logo  | Yes  | 768 x 735  |  
-| https://uk.pcmag.com/office-suites/2318/microsoft-powerpoint-2016  | PowerPoint logo  | Yes  | 800  |  
+| https://uk.pcmag.com/office-suites/2318/microsoft-powerpoint-2016  | PowerPoint logo  | Yes  | 800 x 780 |  
 | https://www.seekpng.com/ipng/u2e6e6a9r5q8r5r5_program-descriptions-my-analytics-guy-microsoft-excel-logo/ | Excel logo | Yes | 820 x 516 |
 
 ## Future improvements 
 
-If I had to make any improvements to my portfolio, I would probably add new features such as audio, mainly to add some variety in my portfolio, it could be anything like someones positive comment on me as a person or feedback on work that I have doen etc. I could probably add an improved video of the one that is already on my digital portfolio, this is because it isn't that long and the quality of the video could be much better, but even though the current video has these disadvantages, it does achieve the purpose of being used as proof that I actually did karate.
+If I had to make any improvements to my portfolio, I would probably add new features such as audio, mainly to add some variety in my portfolio, it could be anything like someones positive comment on me as a person or feedback on work that I have done etc. I could probably add an improved video of the one that is already on my digital portfolio, this is because it isn't that long and the quality of the video could be much better, but even though the current video has these disadvantages, it does achieve the purpose of showing that I actually do karate and right now it is enough, eventually it could be much better. In future, I would also probably add some results for my Excel MOS exam if I do end passing it, this would be great at convincing employers that I have knowledge on using spreadsheet software. 
 
  
